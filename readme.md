@@ -1,6 +1,6 @@
 # Essential Email Template
 
-This template is designed to work on all major email platforms.
+A simple html template for your email. Quick start your project with a our prebuilt template. This template is designed to work on all major email platforms.
 
 ![Essential Email Template - Developers' Kit](https://raw.github.com/devskit/essential-email-template/master/preview.jpg)
 
